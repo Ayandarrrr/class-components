@@ -1,1 +1,50 @@
+/* BODY */
+body {
+font-family: 'Harlow Solid Italicss', cursive;
+background-color: #FAF5F6;
+color: #0F172A;
+}
 
+/* NAVIGATIONBAR */
+.navbar {
+background-color: black;
+border-bottom: 1px solid #E4E0DB;
+padding: 20px;
+}
+
+.nav-container {
+width: 90%;
+max-width: 1100px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+/* LOGO */
+.logo {
+font-family: 'Harlow Solid Italicss', cursive;
+font-size: 27px;
+color: pink;
+}
+
+/* NAV LINKS */
+nav a {
+margin: 0 14px;
+text-decoration: none;
+color: #d39ebe;
+font-size: 14px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* CONTACT BUTTON */
+.contact-button {
+background-color: white;
+color: #d39ebe;
+border: none;
+font-weight: 700;
+padding: 8px 14px;
+border-radius: 8px;
+cursor: pointer;
+font-size: 13px;
+}
